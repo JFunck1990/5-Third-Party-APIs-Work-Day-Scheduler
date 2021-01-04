@@ -51,7 +51,10 @@ timeColor();
 
 
 // save button function to local storage even when refreshing
+function saveEvent (event){
 
+    
+}
 // Trash delete button function
 
 
