@@ -1,5 +1,6 @@
 # HW-5-Third-Party-APIs-Work-Day-Scheduler
-A simple calendar application that allows a user to save events for each hour of the day.
+Hello!
+Wellcome to my Work Day Scheduler! Each hour is color coded red "past", Pastel Red "present", and Pastel Green "future". Type in a reminder and hit save and it will be locally saved for you. I hope you enjoy my work!
 
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
